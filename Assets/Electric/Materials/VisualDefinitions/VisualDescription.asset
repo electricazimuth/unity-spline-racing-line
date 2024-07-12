@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2559cc0fddbd4431e9818668d84f60cf, type: 3}
+  m_Name: VisualDescription
+  m_EditorClassIdentifier: 
+  name: Tester
+  trackMesh: {fileID: 0}
+  roadMaterial: {fileID: 2100000, guid: ef355f48321ab45dd95616f0f320537e, type: 2}
+  curbMaterial: {fileID: 2100000, guid: 3f1003cfdd58c4806968b4407f4a002f, type: 2}
+  atlasTexture: {fileID: 0}
+  barrier_01: {fileID: 7380320385634141668, guid: 518777b910e804275aa5e7b3a61f005f, type: 3}
+  barrier_02: {fileID: 7380320385634141668, guid: 518777b910e804275aa5e7b3a61f005f, type: 3}
+  scaleMultiplier: {x: 1, y: 1, z: 1}

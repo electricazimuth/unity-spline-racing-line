@@ -1,0 +1,3 @@
+[submodule "Assets/Vendor/LargestInteriorRectangle"]
+	path = Assets/Vendor/LargestInteriorRectangle
+	url = https://github.com/Evryway/lir
